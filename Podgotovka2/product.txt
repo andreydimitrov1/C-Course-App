@@ -1,0 +1,32 @@
+Name: random name
+Kg: 25.5
+Id: 111
+H: 11
+W: 10
+L: 12
+
+
+Name: random name
+Kg: 25.5
+Id: 111
+H: 11
+W: 10
+L: 12
+
+
+Name: second random name
+Kg: 35.5
+Id: 222
+H: 13
+W: 13
+L: 17
+
+
+Name: random name
+Kg: 25.5
+Id: 111
+H: 11
+W: 10
+L: 12
+
+

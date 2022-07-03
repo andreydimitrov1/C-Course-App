@@ -1,0 +1,6 @@
+﻿  ExpDate.cpp
+  Podgotovka2.cpp
+C:\Users\ateva\source\repos\Podgotovka2\Podgotovka2\Podgotovka2.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ateva\source\repos\Podgotovka2\Podgotovka2\Podgotovka2.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Podgotovka2.vcxproj -> C:\Users\ateva\source\repos\Podgotovka2\Debug\Podgotovka2.exe
